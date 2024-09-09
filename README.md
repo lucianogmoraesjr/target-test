@@ -71,7 +71,9 @@ Você ficou responsável pela parte da estrutura de banco de dados que será usa
 - Faça uma busca utilizando comando SQL que traga o código, a razão social e o(s) telefone(s) de todos os clientes do estado de São Paulo (código “SP”);
 
 **Resposta:**
+
 **Modelo ER: [questao-4-er.png](./questao-4-er.png)**
+
 **SQL Query: [questao-4.sql](./questao-4.sql)**
 
 # 5) Dois veículos, um carro e um caminhão, saem respectivamente de cidades opostas pela mesma rodovia. O carro, de Ribeirão Preto em direção a Barretos, a uma velocidade constante de 90 km/h, e o caminhão, de Barretos em direção a Ribeirão Preto, a uma velocidade constante de 80 km/h. Quando eles se cruzarem no percurso, qual estará mais próximo da cidade de Ribeirão Preto?
